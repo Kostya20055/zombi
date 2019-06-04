@@ -1,0 +1,43 @@
+.div1{
+	background-image: url(skull_texture2501.jpg);
+}
+.div{
+	background-image: url(375620000ca45d7a5de3f9fde4365cc3.jpg);
+	 height: 200px;
+}
+.a{
+	color: green;
+}
+.h1{
+	color: #e01c11;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5)
+}
+.div2{
+	background-image: url(5a50bc7c0caa1160cb604494.jpg);
+}
+.a1{
+	margin-left: 1400px;
+	color: green;
+}
+.manydiv{
+	display: flex;
+}
+.div32{
+	margin-top:  10px;
+}
+.div23{
+	margin-top: 20px;
+}
+img{
+	margin-left: 3px;
+}
+.div3{
+	background-image: url(poleznoe.ru_15588.jpg);
+	height: 781px;
+	width: 1250px;
+}
+.aa{
+	color: #c4160d;
+	margin-left: 100px;
+	margin-top: 100px;
+}
